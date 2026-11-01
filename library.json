@@ -1,0 +1,19 @@
+{
+  "name": "AlashAnalog",
+  "version": "1.0.0",
+  "description": "Easy analog sensor library: percent, calibration, median filter, hysteresis, words, battery voltage, clear tips (ru/kk/en), no dependencies",
+  "keywords": "analog, soil moisture, LDR, light sensor, MQ gas, water level, battery voltage, calibration, threshold",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alash-electronics/AlashAnalog"
+  },
+  "authors": [
+    {
+      "name": "Alash Electronics",
+      "email": "alash.electronics@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
